@@ -6,5 +6,5 @@ void setup() {
 
 void loop() {
     Serial.println("Hello ESP32");
-    delay(1000);
+    delay(2000);
 }
