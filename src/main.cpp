@@ -5,6 +5,6 @@ void setup() {
 }
 
 void loop() {
-    Serial.println("Hello ESP32");
-    delay(2000);
+    Serial.println("Hello, IoT!");
+    delay(1000);
 }
