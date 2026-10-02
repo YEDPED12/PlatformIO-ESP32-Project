@@ -5,6 +5,6 @@ void setup() {
 }
 
 void loop() {
-    Serial.println("Hello, IoT!");
+    Serial.println("Hello, I!");
     delay(1000);
 }
